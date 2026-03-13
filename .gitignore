@@ -1,0 +1,18 @@
+docs/papers
+docs/russo\ impl/russo_notes.md
+docs/sqarl/sqarl_notes.md
+docs/test_doc
+.vscode
+**/__pycache__/**
+venv
+misc
+**/build/**
+allocation.svg
+docs/sqarl/results.txt
+docs/russo impl/results.csv
+gpu_usage.csv
+lol.py
+submodules
+docs/russo impl/alloc_results.json
+docs/russo impl/russo_exec.txt
+docs/russo impl/russo_gates.txt
